@@ -6,3 +6,5 @@ How to use it is :
 Go to platform/api and create your secret key 
 add that key to .toml file and attach it to the file as api_secret 
 as mentioned in the code snippet..!!
+And to run the chatbot . Open the terminal and type this command: 
+python -m streamlit run chatbot.py 
